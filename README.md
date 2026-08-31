@@ -42,9 +42,9 @@
 ### 📫 Contact Me
 
 <p align="center">
-  <a href="#"><img src="images/wechat.png" width="110" alt="WeChat" title="WeChat 公众号" /></a>
-  <a href="#"><img src="images/douyin.png" width="110" alt="Douyin" title="Douyin 抖音" /></a>
-  <a href="#"><img src="images/xiaohongshu.png" width="110" alt="Xiaohongshu" title="Xiaohongshu 小红书" /></a>
+  <a href="#"><img src="wechat.png" width="110" alt="WeChat" title="WeChat 公众号" /></a>
+  <a href="#"><img src="douyin.png" width="110" alt="Douyin" title="Douyin 抖音" /></a>
+  <a href="#"><img src="xiaohongshu.png" width="110" alt="Xiaohongshu" title="Xiaohongshu 小红书" /></a>
 </p>
 
 <p align="center">
