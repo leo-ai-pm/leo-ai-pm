@@ -1,35 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Leo</h1>
-<h3 align="center">AI Product Manager · Beijing, China</h3>
+[English](README.md) | [简体中文](README.zh-CN.md)
 
 <p align="center">
-  <em>Turning complex AI into <b>understandable</b>, <b>evaluable</b>, and <b>actionable</b> knowledge.</em>
-</p>
-
----
-
-### 🧭 About Me
-
-- 🤖 **AI Product Manager** — I turn complex AI technology into knowledge that people can truly **understand, evaluate, and act on**.
-- 🧠 Currently exploring **AI Agents**, **AIGC**, and applied **LLM** products.
-- 📍 Based in **Beijing, China**
-- 📬 Reach me at **2907594338@qq.com**
-
----
-
-### 📦 Open Source
-
-🚧 *Preparing my first open-source project — stay tuned.*
-
----
-
-### 📫 Contact Me
-
-<p align="center">
-  <a href="#"><img src="wechat.png" width="110" alt="WeChat" title="WeChat 公众号" /></a>
-  <a href="#"><img src="douyin.png" width="110" alt="Douyin" title="Douyin 抖音" /></a>
-  <a href="#"><img src="xiaohongshu.png" width="110" alt="Xiaohongshu" title="Xiaohongshu 小红书" /></a>
-</p>
-
-<p align="center">
-  <strong>WeChat</strong> &nbsp;·&nbsp; <strong>Douyin</strong> &nbsp;·&nbsp; <strong>Xiaohongshu</strong>
+  <samp>
+    <b>Leo</b><br>
+    <img src="assets/motto-en.svg" alt="AI Product Manager · making complex AI understandable, evaluable, and actionable" width="700" height="24" align="middle"><br>
+    <a href="mailto:2907594338@qq.com">email</a> &nbsp;·&nbsp; Beijing, China
+  </samp>
 </p>
